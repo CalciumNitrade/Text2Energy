@@ -19,8 +19,8 @@ This official repository contains scripts for training and testing the `Text2Ene
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/molecule-property-prediction.git
-    cd molecule-property-prediction
+    git clone git@github.com:CalciumNitrade/Text2Energy.git
+    cd Text2Energy
     ```
 
 2. Install the required packages:
