@@ -28,6 +28,9 @@ This official repository contains scripts for training and testing the `Text2Ene
     ```bash
     pip install -r requirements.txt
     ```
+## Data
+
+You can download the data for elements and molecules from the following link: [Text2Energy Data](https://tamucs-my.sharepoint.com/:f:/r/personal/hasan_kurban_tamu_edu/Documents/KIL-OneDrive/Can%20Polat/Text2Energy?csf=1&web=1&e=qptPDI)
 
 ## Usage
 
