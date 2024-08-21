@@ -1,5 +1,5 @@
 
-# Molecule Property Prediction with Text2Energy
+# Molecule Property Prediction with Text2Everything
 
 This official repository contains scripts for training and testing the `Text2Energy` model, a deep learning model for predicting molecule properties from textual representations.
 
