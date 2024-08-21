@@ -1,7 +1,7 @@
 
 # Molecule Property Prediction with Text2Everything
 
-This official repository contains scripts for training and testing the `Text2Energy` model, a deep learning model for predicting molecule properties from textual representations.
+This official repository contains scripts for training and testing the `Text2Everything` model, a deep learning model for predicting molecule properties from textual representations.
 
 ## Requirements
 
@@ -19,8 +19,8 @@ This official repository contains scripts for training and testing the `Text2Ene
 1. Clone the repository:
 
     ```bash
-    git clone git@github.com:CalciumNitrade/Text2Energy.git
-    cd Text2Energy
+    git clone git@github.com:CalciumNitrade/Text2Everything.git
+    cd Text2Everything
     ```
 
 2. Install the required packages:
@@ -30,13 +30,13 @@ This official repository contains scripts for training and testing the `Text2Ene
     ```
 ## Data
 
-You can download the data for elements and molecules from the following link: [Text2Energy Data](https://tamucs-my.sharepoint.com/:f:/r/personal/hasan_kurban_tamu_edu/Documents/KIL-OneDrive/Can%20Polat/Text2Energy?csf=1&web=1&e=qptPDI)
+You can download the data for elements and molecules from the following link: [Text2Everything Data](https://tamucs-my.sharepoint.com/:f:/r/personal/hasan_kurban_tamu_edu/Documents/KIL-OneDrive/Can%20Polat/Text2Everything?csf=1&web=1&e=qptPDI)
 
 ## Usage
 
 ### Training
 
-The training script trains the `Text2Energy` model and validates it during training. It supports various configurations through command-line arguments.
+The training script trains the `Text2Everything` model and validates it during training. It supports various configurations through command-line arguments.
 
 #### Arguments
 
@@ -61,7 +61,7 @@ python train.py --csv_file "data.csv" --root "/path/to/root"
 
 ### Testing
 
-The test script evaluates the `Text2Energy` model on a test dataset.
+The test script evaluates the `Text2Everything` model on a test dataset.
 
 #### Arguments
 
